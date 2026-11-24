@@ -1,0 +1,6 @@
+{
+  "name": "SaraikiKey Studio",
+  "description": "Manifest & README refinement workbench and interactive Saraiki, Urdu, and English keyboard simulator for SaraikiKey 0.7.0.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
